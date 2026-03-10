@@ -109,10 +109,10 @@ Linux -
 ---
 #### NTFS Analysis
 
-![[Pasted image 20260221133916.png]]
+![[attachments/Pasted image 20260221133916.png]]
 
 
-![[Pasted image 20260221134916.png]]
+![[attachments/Pasted image 20260221134916.png]]
 %% Pictures source: TryHackMe %%
 
 ##### Collecting NTFS artefacts for analysis
