@@ -1,6 +1,3 @@
----
-share: true
----
 ### Linux Incident Surface
 
 >  **Linux *Attack* Surface** refers to all the points of interaction in a Linux system where an adversary might attempt to exploit vulnerabilities to gain unauthorized access or carry out malicious activities *(pre-compromise).* 
