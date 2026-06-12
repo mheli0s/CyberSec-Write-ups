@@ -1,4 +1,3 @@
-# CyberSec-Write-ups
-TryHackMe/HackTheBox or other write-ups for CTFs, room walkthroughs, bug reports etc.
+Cybersecurity write-ups from TryHackMe/HackTheBox/CTFs etc., or other technical content write-ups.
 
 - [TryHackMe](./TryHackMe)
