@@ -1,12 +1,14 @@
+<!--
 ---
 category: TryHackMe
 tags:
   - thm
   - hacking
   - Linux
-  - "#ctf"
+  - ctf
   - write-ups
 ---
+-->
 #### Vectara room
 
 - Task 2
